@@ -28,7 +28,7 @@ Note: You'll need to register for an API key to use Perspective API.
 ***Please cite our paper in any published work that uses any of these resources.***
 ~~~
 @article{kwarteng2022misogynoir,
-  title={Misogynoir: challenges in detecting intersectional hate},
+  title={Misogynoir: Challenges in Detecting Intersectional Hate},
   author={Kwarteng, Joseph and Perfumi, Serena Coppolino and Farrell, Tracie and Third, Aisling and Fernandez, Miriam},
   journal={Social Network Analysis and Mining},
   volume={12},
