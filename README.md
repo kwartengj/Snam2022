@@ -24,3 +24,16 @@ Note: You'll need to register for an API key to use Perspective API.
 <!-- WARNING: The data and lexicons contain content that is racist, sexist and offensive in many other ways. -->
 
 <!-- You can find our labelled data in the data directory and the lexicons in the lexicons directory  -->
+
+***Please cite our paper in any published work that uses any of these resources.***
+~~~
+@article{kwarteng2022misogynoir,
+  title={Misogynoir: challenges in detecting intersectional hate},
+  author={Kwarteng, Joseph and Perfumi, Serena Coppolino and Farrell, Tracie and Third, Aisling and Fernandez, Miriam},
+  journal={Social Network Analysis and Mining},
+  volume={12},
+  number={1},
+  pages={166},
+  year={2022},
+  publisher={Springer}
+}
